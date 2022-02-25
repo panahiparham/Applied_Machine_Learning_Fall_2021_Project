@@ -1,4 +1,8 @@
-# mlclass_proj_f2021
+# Applied_Machine_Learning_Fall_2021_Project
+
+In this project, our team worked on the MoleculeNet datasets.
+
+---
 
 Repository of TBA group project for Applied Machine Learning course. </br>
 
