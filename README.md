@@ -2,13 +2,13 @@
 
 Repository of TBA group project for Applied Machine Learning course. </br>
 
-Fatemeh Saberi Khomami
+[Fatemeh Saberi Khomami](https://github.com/mysaberi)
 
 [Arash Sadeghi Bablan](https://github.com/ArashSadeghiBablan)
 
-Kavan Alipanahi
+[Kavan Alipanahi](https://github.com/kavanalp)
 
-Parham Mohammad Panahi
+[Parham Mohammad Panahi](https://github.com/panahiparham)
 
 
 Dataset: https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects/Projects-Fall-2021/Data
