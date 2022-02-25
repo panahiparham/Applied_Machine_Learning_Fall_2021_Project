@@ -10,6 +10,7 @@ Repository of TBA group project for Applied Machine Learning course. </br>
 
 [Parham Mohammad Panahi](https://github.com/panahiparham)
 
+---
 
 Dataset: https://github.com/hhaji/Applied-Machine-Learning/tree/master/Projects/Projects-Fall-2021/Data
 
