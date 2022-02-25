@@ -4,7 +4,7 @@ Repository of TBA group project for Applied Machine Learning course. </br>
 
 Fatemeh Saberi Khomami
 
-Arash Sadeghi Bablan
+[Arash Sadeghi Bablan](https://github.com/ArashSadeghiBablan)
 
 Kavan Alipanahi
 
